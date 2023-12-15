@@ -1,0 +1,29 @@
+.signup{
+    color: #fff;
+	background-color: black;
+    border-radius: 5px;
+}
+.bold{
+    font-weight: bolder;
+}
+.line{
+    margin-top: 0;
+	color: black;
+	background-color: black;
+	border: 4px;
+}
+.image{
+    width: 50%;
+    height: 45%;
+}
+.margin{
+    margin-top: 10rem;
+}
+.ml-5{
+    margin-left: 5.5rem;
+}
+.icon{
+    color: yellow;
+}
+
+
