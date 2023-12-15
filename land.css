@@ -22,8 +22,9 @@
 .ml-5{
     margin-left: 5.5rem;
 }
-.icon{
-    color: yellow;
+.icon i{
+    color: #febd68;
+    font-size: 10px;
 }
 
 
